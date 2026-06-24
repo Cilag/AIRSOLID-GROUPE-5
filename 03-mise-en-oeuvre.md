@@ -171,6 +171,9 @@ Déployé sur SRV2, même configuration que VM-AD mais promu en **DC supplément
 
 #### Install ODOO : 
 
+<img src="assests/odoo_install.png">
+
+
 ### 3.4.4 VM-FILE — Serveur de fichiers
 
 #### Structure de sauvegarde : 
