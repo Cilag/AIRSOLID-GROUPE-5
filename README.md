@@ -35,3 +35,9 @@ airsolid/
 - **Hybride** : AD on-premise + Microsoft 365 (synchronisation Azure AD Connect)
 - **Sauvegardes** : règle 3-2-1 — PBS local + Azure Backup hors site
 - **Sécurité réseau** : segmentation VLAN + pare-feu OPNsense + VPN WireGuard nomades
+
+#### Notre groupe : 
+ - OZOUX Guillaume
+ - BELMAMOUN Hicham
+ - DURANDEAU Emeric
+ - MARQUIE Médéric
