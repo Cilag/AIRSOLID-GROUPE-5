@@ -12,7 +12,7 @@ L'architecture retenue repose sur cinq axes :
 
 ## 2.2 Vue d'ensemble de l'architecture cible
 
-<img src="assets/airsolid3_archi.drawio.svg">
+<img src="assests/airsolid3_archi.drawio.svg">
 
 ---
 
